@@ -14,5 +14,7 @@
 
 -> Reset filter option to undo any applied changes and restore the original image.
 
+-> Please note that I have used a paid API with limited usage attempts, which may not work if accessed after a prolonged period.
+
 
 #### Demo: https://edit-your-image.netlify.app/
