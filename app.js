@@ -318,7 +318,7 @@ function handleUpload() {
     previewImage.style.height = '20%';
     previewImage.src = ' images/pinwheel.gif';
 
-    const key = 'LrL26zJGodQ9ChWyknd12pPd';
+    const key = '7FTGWxoAXBVD3SpbMcyMapZx';
 
     // FormData is a built-in JavaScript object that allows you to create and manage data in the format of a form. It is commonly used when you want to send data, such as files or key-value pairs, to a server using an HTTP request.
 
