@@ -1,4 +1,4 @@
-# Inmage-Editor
+# Image-Editor
 
 -> Drag-and-drop or upload images with a "Choose Image" button.
 
